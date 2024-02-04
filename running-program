@@ -10,7 +10,7 @@ cd client
 Install client dependencies:
 npm install
 
-Run the client in development mode with live reloading:
+Run the client in development mode:
 npm run dev
 
 To build the client for production:
@@ -18,3 +18,5 @@ npm run build
 
 To continuously watch for changes in the client during development:
 npm start
+
+https://web.dev/articles/indexeddb
